@@ -1,7 +1,7 @@
 ## Instructions
 
 ### Link:
-```js
+```python
 https://zefoy.com/c2VuZC9mb2xsb3dlcnNfdGlrdG9V
 ```
 
